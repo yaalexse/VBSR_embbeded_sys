@@ -1,4 +1,6 @@
-La communication entre cartes.
+
+La communication entr![EmbeddedSystemDiagram_1](https://github.com/yaalexse/VBSR_embbeded_sys/assets/125702546/75dca57b-6916-41e3-bafa-cd868a904e5f)
+e cartes.
 Avec la structure globale de notre système embarqué, on ne peut pas tout faire avec une seule carte donc on doit utiliser plusieurs cartes: une carte pour acquérir les données des accéléromètre et l'autre pour enregistrer les données dans une carte SD.
 Si le système globale comporte au minimum 2 cartes il faut pouvoir les faire communiquer simplement. 
 La question est donc, comment faire communiquer 2 cartes ?
